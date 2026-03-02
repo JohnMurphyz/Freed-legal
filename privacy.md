@@ -70,7 +70,7 @@ You have the right to:
 - **Portability** — request an export of your data
 - **Opt out of notifications** — toggle off in Settings at any time
 
-To exercise any of these rights, contact us at **support@quitnicotine.app**.
+To exercise any of these rights, contact us at **strawcottageapps@gmail.com**.
 
 ---
 
@@ -104,5 +104,4 @@ We may update this policy from time to time. We will notify you of significant c
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** support@quitnicotine.app
-**Website:** https://quitnicotine.app
+**Email:** strawcottageapps@gmail.com

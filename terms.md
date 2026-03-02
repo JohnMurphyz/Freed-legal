@@ -26,7 +26,7 @@ You must be at least 13 years old (16 in the EU/UK) to use FREED. By using the A
 - You are responsible for all activity that occurs under your account
 - You must provide accurate information when creating your account
 - You may not use another person's account without permission
-- Notify us immediately at support@quitnicotine.app if you suspect unauthorised access to your account
+- Notify us immediately at strawcottageapps@gmail.com if you suspect unauthorised access to your account
 
 ---
 
@@ -124,5 +124,4 @@ We may update these Terms from time to time. We will notify you of material chan
 
 For questions about these Terms:
 
-**Email:** support@quitnicotine.app
-**Website:** https://quitnicotine.app
+**Email:** strawcottageapps@gmail.com
